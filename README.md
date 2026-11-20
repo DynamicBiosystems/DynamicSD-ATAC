@@ -83,7 +83,7 @@ DynamicSD-ATAC mkref \
  --species human \
  --index genome_name/genome.fa \
  --whitelist-fastq  2D250806020_C2.fq.gz \
- --image HE.tif \
+ --image DAPI.tif \
  --chemistry ATAC \
  --chiptype SD_5_13 \
  --cellbin \
