@@ -134,12 +134,12 @@ DynamicSD-ATAC mkref \
 
 **Manual Alignment for DynamicSD-ATAC**
 
-In most cases, DynamicSD-ATAC will automatically align microscope images with Umi distribution images. If manual alignment is necessary, choose the option that best fits your experiment.
+In most cases, DynamicSD-ATAC will automatically align microscope images with nFrags images. If manual alignment is necessary, choose the option that best fits your experiment.
 [https://github.com/DynamicBiosystems/DynamicSDAssist](https://github.com/DynamicBiosystems/DynamicSD-Assist)
 
 **Cell Segmentation**
 
-DynamicSD-ATAC performs cell segmentation only on HE stained images. regulated by the `--cellbin` parameter. 
+DynamicSD-ATAC performs cell segmentation only on DAPI stained images. regulated by the `--cellbin` parameter. 
 
 ### Outputs
 #### Overview of output structure
